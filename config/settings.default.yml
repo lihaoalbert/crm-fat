@@ -70,7 +70,7 @@
 #------------------------------------------------------------------------------
 # Default locale is American English.
 #
-:locale: "en-US"
+:locale: "zh-CN"
 
 
 # Settings for outgoing email (SMTP)
@@ -81,8 +81,8 @@
   :enable_starttls_auto       : true
   :port                       : 587
   :authentication             : :plain
-  :user_name                  : ""
-  :password                   : ""
+  :user_name                  : "lihao.albert"
+  :password                   : "mmuud4451466"
 
 
 # Settings for the Email dropbox (IMAP)
